@@ -30,7 +30,7 @@
 
 ### 📫 Connect with Me
 - **Gmail:** [ktsahitya@gmail.com](mailto:ktsahitya@gmail.com)
-- **Instagram:** [Follow me on Instagram](https://www.instagram.com/Sahitya-kt/)
+- **Instagram:** [Follow me on Instagram](https://www.instagram.com/hiii._.janu?igsh=eHZzeDRlOGkwaHZk)
 
 ---
 *"Hard work beats talent when talent doesn't work hard."*
