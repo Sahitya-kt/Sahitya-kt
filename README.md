@@ -23,8 +23,8 @@
 ---
 
 ### 🌟 Featured Projects
-- 🖋️ **[Air-Writer-AI](https://github.com/Sahitya-kt/Air-Writer-AI):** A virtual painter using Computer Vision to write in the air.
-- 📊 **[System Info Dashboard](https://github.com/Sahitya-kt/system-info-dashboard):** A tool to capture and display hardware and network auditing data.
+- 😂 **[Deep Trace Prank](https://sahitya-kt.github.io/DeepTrace-Prank/):** It's just a prank BY- Sahitya KT.
+- 📊 **[System Info Dashboard](https://sahitya-kt.github.io/surprise-me/):** A tool to capture and display hardware and network auditing data.
 
 ---
 
