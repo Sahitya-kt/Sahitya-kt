@@ -1,7 +1,7 @@
 # Hi there, I'm Sahitya Kumar Tiwari! 👋
 
 ### 👨‍💻 About Me
-- 🎓 **Student:** 12th Commerce (Specializing in Macroeconomics).
+- 🎓 **Student:** • Class XII / Grade 12, • Senior Secondary Education.
 - 💻 **Aspiring Web Developer:** Building custom web applications.
 - 🐍 **Python Enthusiast:** Exploring AI and Computer Vision (MediaPipe/OpenCV).
 - 📍 **Location:** Bettiah, Bihar, India.
@@ -30,7 +30,7 @@
 
 ### 📫 Connect with Me
 - **Gmail:** [ktsahitya@gmail.com](mailto:ktsahitya@gmail.com)
-- **Instagram:** [Follow me on Instagram](https://www.instagram.com/hiii._.janu?igsh=eHZzeDRlOGkwaHZk)
+- **Instagram:** [My Instagram Page](https://www.instagram.com/hiii._.janu?igsh=eHZzeDRlOGkwaHZk)
 
 ---
 *"Hard work beats talent when talent doesn't work hard."*
