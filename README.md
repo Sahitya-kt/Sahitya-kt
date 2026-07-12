@@ -29,7 +29,6 @@
 ---
 
 ### 📫 Connect with Me
-- **Gmail:** [ktsahitya@gmail.com](mailto:ktsahitya@gmail.com)
 - **Instagram:** [My Instagram Page](https://www.instagram.com/hiii._.janu?igsh=eHZzeDRlOGkwaHZk)
 
 ---
